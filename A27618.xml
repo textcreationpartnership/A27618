@@ -1,0 +1,492 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A most humble representation in a further review, erecting a pillar of praise in acknowledgement of what God hath been pleased to do in this last remarkable year with reasons from thence of expectation of a happy revolution in the rising of the suffering witnesses of Christ, or Protestants in France, &amp;c., the fall of the Papal and Ottoman state, and the beginning of the Kingdom of Christ in the world ...</title>
+            <author>Beverley, Thomas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1698</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 21 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A27618</idno>
+            <idno type="STC">Wing B2164A</idno>
+            <idno type="STC">ESTC R4113</idno>
+            <idno type="EEBO-CITATION">12499393</idno>
+            <idno type="OCLC">ocm 12499393</idno>
+            <idno type="VID">62644</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A27618)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 62644)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 306:5)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A most humble representation in a further review, erecting a pillar of praise in acknowledgement of what God hath been pleased to do in this last remarkable year with reasons from thence of expectation of a happy revolution in the rising of the suffering witnesses of Christ, or Protestants in France, &amp;c., the fall of the Papal and Ottoman state, and the beginning of the Kingdom of Christ in the world ...</title>
+                  <author>Beverley, Thomas.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for, and sold by William Marshall ... and by John Marshall ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1698.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Imprint from colophon.</note>
+                  <note>Signed: T. Beverley.</note>
+                  <note>Reproduction of original in Bodleian Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Sampled and proofread</change>
+         <change>
+            <date>2013-10</date>
+            <label>John Latta</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="treatise">
+            <pb facs="tcp:62644:1" rendition="simple:additions"/>
+            <head>A moſt Humble REPRESENTATION In a Further Review, ERECTING <hi>A Pillar of Praiſe,</hi> In acknowledgement of what GOD hath been pleaſed to Do in this Laſt Remarkable Year.</head>
+            <head type="sub">WITH Reaſons from thence of Expectation of a <hi>Happy Revolution</hi> in the Riſing of the Suffering <hi>Witneſſes</hi> of Chriſt, or <hi>Proteſtants</hi> in <hi>France,</hi> &amp;c. The Fall of the <hi>Papal</hi> and <hi>Ottoman</hi> State, and the Beginning of the <hi>Kingdom of Chriſt</hi> in the World, ſpeedily to be brought to paſs by the <hi>Stone cut out of the Mountains not in</hi> Human <hi>hands,</hi> but to become Himſelf a Great Mountain, filling <hi>the whole Earth.</hi>
+            </head>
+            <p>I Am moſt ſenſible, The great Events, I hoped this laſt Year, have not had their Complement; and that therefore, The Cenſures of many are very ſevere upon me, according to the great Rigor of Human Nature upon it ſelf in this Degeneracy of it.</p>
+            <p>But upon the Review of the whole Year, and the Events of it, which muſt needs be ac<g ref="char:EOLhyphen"/>knowledged to be very Extraordinay Ones; and the particular Times, in which the <hi>Divine Providence</hi> did advance them, I find great Reaſon of Encouragement; For it pleaſed the great LORD of <hi>Time,</hi> through Grace in <hi>Jeſus Chriſt,</hi> the Mediator of His Churches Times, the Great <hi>Palmoni,</hi> or Wonderful Numberer of Time; the Supreme <hi>Apocalyptes,</hi> to whom God gave that Illuſtr<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>s <hi>Prophecy</hi> of the <hi>New Teſtament; The Revelation;</hi> to direct me in a Paper publiſhed in the Fifth Month, called, <hi>July</hi> to the moſt particular. <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>ſe Times of the greateſt of Events this Laſt Year, in both, <hi>Old,</hi> and <hi>New-Stile.</hi>
+            </p>
+            <p>The times I fix'd upon, were, the Month of <hi>Auguſt</hi> from the 15th to the end of the Month; the 1ſt of <hi>September</hi> the Ancient <hi>Feaſt</hi> of <hi>Trumpets;</hi> the 10th of <hi>September,</hi> the Day of <hi>Jubilee;</hi> the <hi>Feaſt</hi> of <hi>Tabernacles</hi> from the 15th to the 22th of the ſame Month.</p>
+            <p>Accordingly on the 22th of <hi>Auguſt, Old-Stile,</hi> juſt on the Time of the Ceſſation of the <hi>Em<g ref="char:EOLhyphen"/>pire of Rome</hi> in the <hi>Weſt,</hi> (as was more fully ſet out in that Paper) and in <hi>New-Stile, Sep<g ref="char:EOLhyphen"/>tember</hi> the 1st, the <hi>Feaſt</hi> of <hi>Trumpets;</hi> The <hi>French</hi> King comes forth, taking upon himſelf as a <hi>Caeſar-Augustus,</hi> or <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Monarch,</hi> to <hi>ſhut the Temple of</hi> Janus in an <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Peace,</hi> or, as he ſpoke, <hi>Giving Repoſe to Eu<g ref="char:EOLhyphen"/>rope.</hi>
+            </p>
+            <p>On the ſame 22th of <hi>Auguſt, Old-Style,</hi> and <hi>September</hi> the 1st <hi>New-Style,</hi> the <hi>Imperial</hi> Armies were in motion towards the <hi>Turkiſh</hi> Forces, and on the 31th <hi>Old-Style,</hi> That ſo extraordinary and monumental Victory was obtained over the <hi>Grand Signior</hi> and his <hi>Baſhaws.</hi>
+            </p>
+            <p>On the 10th of <hi>September, Old-Style,</hi> the 20.
+<pb n="2" facs="tcp:62644:2"/>of <hi>September, New-Style;</hi> the <hi>Articles</hi> of <hi>Peace</hi> were Sign'd at <hi>Riſwick.</hi>
+            </p>
+            <p>Theſe Things came to paſs at the very times of this Year, that had been Foretold (as <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ath been ſaid) in that Paper; which, as it may be ſubject to Cenſure becauſe Things have not riſen to that h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>i<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, yet ought to be con<g ref="char:EOLhyphen"/>ſidered and juſtify'd, in what the Year hath at<g ref="char:EOLhyphen"/>tained in ſuch Determinate Times for Events; That though not to the higheſt themſelves, yet <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ontain within themſelves the Seeds, Begin<g ref="char:EOLhyphen"/>nings, and Principle, or theſe Higheſt, and are the Pledges, Earneſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and Aſſurances of them; As the Peace, which the <hi>French</hi> King takes upon himſelf to have given, imports (however he underſtand it not the Reſignation of <hi>
+                  <g ref="char:V">Ʋ</g>ni<g ref="char:EOLhyphen"/>verſal Monarch;</hi> and the <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Peace</hi> of the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>rce of Peace:</hi> The <hi>Mabo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>etan Ottoman</hi> De<g ref="char:EOLhyphen"/>f<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>t aſſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>es the paſſing aw<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>y of the <hi>ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ond <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>o.</hi> viz. Of the <hi>Ottoman lyranny;</hi> and That <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>in<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> coming to an end, and none to help him; His <hi>Day. Hour, Month, Year,</hi> being expired, and the Kingdom of Chriſt immedi<g ref="char:EOLhyphen"/>ately ready to ſucceed; and therefore, the <hi>Pa<g ref="char:EOLhyphen"/>pacy,</hi> on which it is a Judgment, certainly to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ad with it.</p>
+            <p>And though I do not pretend to have affixt the following Events to their proper Points and Times; They are yet great Events of this Year, that ought to be Recorded as ſo. The <hi>Ar<g ref="char:EOLhyphen"/>ticles</hi> of <hi>Peace,</hi> with the Empire, after a time of Suſpenſion, holding the <hi>Peace</hi> at ſome incer<g ref="char:EOLhyphen"/>tainly, were accepted by the Emperor, <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lob.</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. and Signed <hi>N<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>v.</hi> the 1ſt. <hi>New Style,</hi> and Remarkably ſo, as it <hi>Divine Providence</hi> would Note the <hi>Half <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e,</hi> or an <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Years paſt, ſince The <hi>Reformation</hi> by <hi>Luther</hi> more illuſtri<g ref="char:EOLhyphen"/>ouſly ſhew'd it ſelf in the Empire; who affix'd his <hi>Antipapiſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ed Poſitions</hi> to the Church-doors at <hi>Winemberg</hi> the ſame <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>bob.</hi> 31. for the ſ<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re of the <hi>Popiſh high All-ſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>irts Day</hi> following, to be thereby made of the moſt Publick Noteri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLhyphen"/>ty in the <hi>Empire;</hi> and it gives great Hopes, ſome great Intentions of <hi>Providence,</hi> for the Glory of His Goſpel in the <hi>Reformation,</hi> and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> his <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ngdom</hi> in the Empire, are laid up in <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Peace.</p>
+            <p>This Year hath produced a very obſervable App<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ance of the <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>zir</hi> of <hi>Muſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ovia.</hi> and in a Victoriouſneſs over the <hi>Ottoman S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iory,</hi> as <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> B<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>in<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the <hi>C<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>iar</hi> (as we <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>tile<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>em) <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> out of their I<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>norance, Bar<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>, Sla<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ry, <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ording to <hi>preph<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>;</hi> of which <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> Prince i<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> a <hi>i<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ſt Fruits,</hi> and the m<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>re for his co<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap> into ſo cle<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>r an Air of <hi>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap>
+               </hi> in this Nation; and whene<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>r That doth come to paſs, I am In<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>allibly cer<g ref="char:EOLhyphen"/>tain. the Great City <hi>Rome</hi> ſhall be ready to <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+            <p>But That, which in the laſt place, but with a Primary Intention, I Record as a great Event of this Year 97. is, That, though It is much to be Lamented, The <hi>Proteſtant</hi> Intereſt could not be comprehended in the Peace; and that the <hi>Herodian</hi> Spirit hath appeared in a time of Univerſal Peace, which ſlaughtered the Infants at one time, and at another time <hi>ſtreached forth its hand</hi> on the Chriſtian Church to vex and to kill; So a Perſecutory Spirit hath even, ſince the Peace, raged in the <hi>French Monarch:</hi> A great Remove from the Magnanimity of Chriſtian or Princely Com<g ref="char:EOLhyphen"/>paſſion, that would overſlow at ſuch a time to<g ref="char:EOLhyphen"/>wards all. Oh that there were a due ſenſe of it among Proteſtants, that are at eaſe; and that ſolemn Faſting and Prayer, without ceaſing. were made for ſuch Sufferers; <hi>For why ſhould there be Wrath agairst Protestant Princes, Chur<g ref="char:EOLhyphen"/>ches and Nations!</hi> Who would not bewail, That <hi>Protestancy,</hi> our greateſt Priviledge, Glo<g ref="char:EOLhyphen"/>ry, and Enjoyment, ſhould be puniſh'd on them as their only Crime! But I cannot but hope that God hath been pleaſed to ſuffer it, that it might be made Evident, that the Suffering Proteſtant; beyond the Seas, who at this time, <hi>Keep the Commandments of God,</hi> and <hi>Hold the Faith of Jeſus,</hi> are thoſe <hi>Witneſſes</hi> of God, in whom God is pleaſed at this time, as in an <hi>Epitome,</hi> or Summary, to draw up the ſuffer<g ref="char:EOLhyphen"/>ings of all the Confeſſors, and <hi>Martyrs</hi> under the <hi>Papacy,</hi> and <hi>Antichristian Apostacy</hi> for ſo ma<g ref="char:EOLhyphen"/>ny Hundreds of Years, before their Full, and Compleat Ri<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ng, and the op<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ning of his King<g ref="char:EOLhyphen"/>dom. There is therefore a perfect <hi>Sciagraphy,</hi> or plat-form of the <hi>Apocalyptick Viſion,</hi> cap. 11. in their preſent Caſe and State.</p>
+            <p>They lye, at this time, in a Large <hi>Bredth of the Great City,</hi> the <hi>Roman Artichristian Church,</hi> viz. The Empire, In which the Refor<g ref="char:EOLhyphen"/>mation h<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>an; and more eſpecially in <hi>France,</hi> whe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>e ſo many Dread<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>l Scenes of their Maſſa<g ref="char:EOLhyphen"/>cres, and Perſecutions have heretofore been pre<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>en<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ed; and in <hi>Pi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t</hi> and <hi>S<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rcoy,</hi> where They have been (as many Faithful Hiſtorians witne<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> continued by an uninterrupted ſuc<g ref="char:EOLhyphen"/>ceſſion of ſo many Hundred Years, as will make up the 1260. in the pure Profeſſion of the Goſpel; and However Perſecuted, they have been preſerved, as <hi>Moſes</hi> his <hi>buſh,</hi> burn<g ref="char:EOLhyphen"/>ing, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> not confirmed; Now in this very Year, They <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> this Breadth <hi>lye dead,</hi> (but as was ſaid eſpecially in <hi>France</hi>) &amp; under <hi>A<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>athemaes,</hi> Pro<g ref="char:EOLhyphen"/>ſcription, Edicts for D<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>at<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, and Baniſhment, Able <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ion to the <hi>Gallies;</hi> their Teſtimony to Chriſtianity, and their Sufferings, as it were Vying one with another.</p>
+            <p>T<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ey of the Popiſh People, and Kindreds
+<pb n="3" facs="tcp:62644:2"/>and Tongues, and Nations, have by their <hi>Ple<g ref="char:EOLhyphen"/>nipotentiaries looked upon their Dead Bodies</hi> to the purpoſe, and determined they ſhould lye Dead: and the <hi>Protestant Plenipoteniaries</hi> have beheld them dead, and profeſſed they could not help them.</p>
+            <p>They cannot yet be <hi>Buried,</hi> in Regard of God's Gracious Bearing up of their Spirits with Renewed Reſolution, to keep up their Faith to Chriſt in the mid'ſt of ſo great Cru<g ref="char:EOLhyphen"/>eky upon them; and further, There are ſuch great Kingdoms, and States, that <hi>standing up<g ref="char:EOLhyphen"/>on their feet;</hi> that is, ſubſiſting upon their own Strength. Authority, Laws, and Govern<g ref="char:EOLhyphen"/>ment; Avow the ſame Profeſſion publickly, in defiance of <hi>Papal Powers,</hi> whatever, and ſo are called <hi>Protestants,</hi> or open Avowed <hi>Wit<g ref="char:EOLhyphen"/>neſſes.</hi>
+            </p>
+            <p>They that <hi>dwell upon the Earth;</hi> The Popiſh Princes, and States, The <hi>Eccleſiasti<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k Head,</hi> which the Scripture calls The <hi>Beaſt,</hi> as the <hi>I<g ref="char:EOLhyphen"/>mage</hi> of Ancient Empire, have ſent their Compliments of Congratulation and Joy, and their Gifts, and Preſents, one to another, upon the ſuppreſſed State of <hi>Proteſt<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ncy</hi> ſo far, as they have attained; and what Alliances they are forming further, if the <hi>Stone cut out of the Mo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ontains</hi> ſhould not ſurpriſe them, Time would Diſ<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>over: And that they may think themſelves more ſecure, &amp; That they are ſtill to continue. Providence hath given them the re<g ref="char:EOLhyphen"/>turns into that <hi>Adulterous B<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>t,</hi> of one of the <hi>German El<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lors,</hi> in the Cou<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>t and Territories of whoſe Predeceſſors, Proteſtancy had its firſt Protection; that <hi>babylon</hi> may ſay, <hi>I ſit a Queen, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>d<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>a<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> no Widow, and ſhall ſee to ſorrow, and that ſo, Her Plagues may come in one hour.</hi> For therefore I Record theſe as ſignal Events of this Year, becauſe I look upon all theſe as ſigns at the Time, God hath ordained, when the <hi>ſpi<g ref="char:EOLhyphen"/>rit of Life f<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> God ſmall enter unto the Witneſſes;</hi> their whole tim<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of 126<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Years of <hi>Sa<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>loth Prophecy</hi> being expired; and their preſent po<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>are, ſuch as Prophecy hath deſcribed it at their Ri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ing and Deliverance.</p>
+            <p>But it is y<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> a moſt Remarkable Event of this Year. That God hath been pleaſed, this Year, by the <hi>Peace,</hi> to place it, as an <hi>Honour,</hi> upon the King, as <hi>Prince of Orange,</hi> to provide <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>at His Principality, as a Sanctuary; that his Witneſſes there may not only <hi>not be buried,</hi> but not ſo much as <hi>lye Dead;</hi> but their Profeſſion <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> born up there, when in Regard of the Seve<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ty of the Pe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ſe<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>tion they <hi>lye Dead</hi> in other <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>rts of that Nation. And in Regard, it is a <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>toration of the Kingdoms of <hi>Protestancy,</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>he <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> before the Peace, had e<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of the <hi>Kingdom</hi> of <hi>France;</hi> It bears the face of a <hi>Reſurrection;</hi> and the Return of their <hi>Four Fastors</hi> thither in ſo ſolemn a manner, out of their Impriſonment at <hi>Lyons,</hi> as is related in their Letter<note n="*" place="margin">Mont<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Accou<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> the Mont<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> led Fe<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ary.</note> to the <hi>Pastor</hi> of the <hi>Walloon</hi> Congregation at <hi>Rotterdam,</hi> (I hope moſt Authentick) carries the very Type of a <hi>Spirit of Life from God, entring into them, ſet<g ref="char:EOLhyphen"/>ting them on their</hi> Feet, and <hi>A Voice from Hea<g ref="char:EOLhyphen"/>ven, ſaying, Come up hither,</hi> Their <hi>Enemies be<g ref="char:EOLhyphen"/>holding them;</hi> and many Papiſts ſo moved, as <hi>to give Glory to the God of Heaven</hi> by Converſi<g ref="char:EOLhyphen"/>on to <hi>Protestancy.</hi> All which, is both an Ear<g ref="char:EOLhyphen"/>neſt, and pledge, and Aſſurance of the <hi>Re<g ref="char:EOLhyphen"/>ſurrection of the Witneſſes</hi> in general, ſpeedily to go on; And one may even ſay, They have begun to Riſe; and I cannot but hope, hereby God hath made the King, whom the Enemies have called in contempt, <hi>Prince of Orange,</hi> The <hi>Prince of Orange le Grand!</hi> and on this very Account, as on others, <hi>A Signet in God's own Right Hand.</hi>
+            </p>
+            <p>But it ought not to be omitted, that God hath been pleaſed by a Spirit from himſelf, now in the Cloſe of the Year, to ſet a further mark of Honour upon it; the Unanimous Ad<g ref="char:EOLhyphen"/>dreſs of the <hi>Honourable Houſe of Commons</hi> for the Honour of <hi>Jehovah,</hi> in a Reformed Nation and accepted with ſuch a Zealous Chearfulneſs by the King in ſo great a <hi>Proclamation:</hi> This is, I hope, laid up, as Scripture expreſſes it, as a <hi>Memorial</hi> before <hi>the Lord in his Temple,</hi> for the Glory of the King, and Parliament, in his approaching Kingdom; It being a Teſtimony for God unparallel'd, ſince what is ſtiled, <hi>The Reſtoration;</hi> and looks as if thoſe earneſt Motions for Reformation, that have been at any time before, ſince the <hi>Reformation</hi> from <hi>Popery,</hi> were Reviving by joint Supreme Authority, near to <hi>The Reſtitution of all things.</hi>
+            </p>
+            <p>Now, by way of Reflection upon all theſe Imp<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                  <desc>•••••</desc>
+               </gap>, of Divine Providence, upon this Year <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> which being ſo many, and all clear Matter of Fact, cannot be ſuppoſed to be by chance. I cannot but Remonſtrate; That tho' Thing are not Aſcended to the H<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>h<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>hs I had hoped and expected, yet, it <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>not be denied, God hath not left this Year <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>ſtitute, Naked, or <hi>without Witneſs</hi> from Himſelf, and that He hath, in an Eminency, Graced thoſe very particular Times in this Year, I had ſingled out, as deſigned, by Prophecy, for En<g ref="char:EOLhyphen"/>gravings upon with Effects of Divine Power, and Goodneſe.</p>
+            <p>Now, whatever hath come to paſs this Year, of ſo great Remark, and ſo ag<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>able to Prophecy, deſerves ſome of that <hi>Ast<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ri<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>k</hi> upon
+<pb n="4" facs="tcp:62644:3"/>and Reſurrection, and of the <hi>Miſſion</hi> of the Holy Spirit, Remarking it <hi>That Year,</hi> and <hi>That ſame Year,</hi> on occaſion of that ſo Memorable Prophecy of <hi>Caiaphas,</hi> their High-Prieſt that Year, as Productive of it, and Impelling it: In like manner theſe things have come to paſs, this Great Prophetick Year 97. b<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>cauſe <hi>This ſame Year.</hi>
+            </p>
+            <p>And as In a Wonderful Reſemblance of <hi>Caiaphas,</hi> and his Prophecy, I cannot but look upon that <hi>Oracular</hi> Acknowledgment of the <hi>French King,</hi> as what he was Impell'd to, on the Account of his being permitted, and ſo far upheld by Providence, to take upon him<g ref="char:EOLhyphen"/>ſelf, as an <hi>
+                  <g ref="char:V">Ʋ</g>niverſal Monarch</hi> in the Peace, <hi>This ſame Year.</hi> He Writing to the Arch-Bi<g ref="char:EOLhyphen"/>ſhop of <hi>Paris,</hi> in deſire of the Popiſh <hi>le Deum,</hi> as a Thankſgiving for the Peace with the Em<g ref="char:EOLhyphen"/>peror: Thus begins: <hi>CO<g ref="char:V">Ʋ</g>SIN, THE TIME, WHICH HEAVEN HAD ORDAIN'D, FOR THE RECONCILIATION OF THE NATIONS IS COME.</hi> I hope This is Prophetical of the Reconciliation of all Nations by the <hi>Kingdo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> of the <hi>Prince</hi> of <hi>Peace.</hi>
+            </p>
+            <p>How, therefore, God will pleaſe to promote theſe Beginnings, thro' this following Year 1698. (Being very poſitive the 1260 Years of the Delay of the Kingdom of Chriſt there ex<g ref="char:EOLhyphen"/>pired) <hi>viz.</hi> Beginning at the <hi>Apocalyptick Epoch,</hi> the time of our Lord's Reſurrection, Aſcenſion, and Miſſion of his Spirit; Down to the time of the Ceſſation of the <hi>Roman</hi> Empire; Month the 6th; Then on the <hi>Feast of Trumpets, Ju<g ref="char:EOLhyphen"/>bilee,</hi> and <hi>Feast of Tabernacles</hi> in the 7th Month; I will not <hi>Pronounce,</hi> but Humbly <hi>Wait</hi> with greateſt Hope, and Expectation from Him, who <hi>Magniſies his Word a<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ove All his Name.</hi>
+            </p>
+            <p>For I am humbly Conſcious to my ſelf, whatever Thoughts Any may have, I have not Raſhly, or Rudely, ſeiz'd on the Time of the Laſt, and of this Year, as the Time of the Great Revolution I expect for the <hi>King<g ref="char:EOLhyphen"/>dom of Christ;</hi> but I have, through the Grace of the <hi>Wonderful Numberer,</hi> and through His Redemption, extending it ſelf to every Th<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> of His Kingdom, that is <hi>the Kingdom of Re<g ref="char:EOLhyphen"/>demption;</hi> drawn a <hi>Line of Time.</hi> according to the Scriptures, made Illuſtrious with the greateſt Events that have been known in the World; coming down to this very Time from <hi>Solo<gap reason="illegible" resp="#KEYERS" extent="5 letters">
+                     <desc>•••••</desc>
+                  </gap>.</hi> Death, the very Time where <hi>Pro<g ref="char:EOLhyphen"/>phetical <gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>e</hi> begins, and goes in a ſtrait Line <gap reason="foreign">
+                  <desc>〈 in non-Latin alphabet 〉</desc>
+               </gap> or expreſly, for the ſpace of ſeven 390's, or 2730. Years, <hi>viz.</hi> the Changes made upon the Ancient People of God, the <hi>Ten Tribes of</hi> 
+               <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and the <hi>Kingdom of</hi> Judah, in their ſo <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Deſolation;</hi> the <hi>Babylonian, Perſian</hi> and Gre<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap> 
+               <hi>Monarchies;</hi> the <hi>Roman Empire,</hi> and the Gre<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> Changes, and Revolution of it; which in re<g ref="char:EOLhyphen"/>gard of the coming of the <hi>Meſſiah, His De<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> Reſurection,</hi> and <hi>Aſcenſion the Miſſion of the Spirit,</hi> and the <hi>Preaching</hi> of the <hi>Goſpel</hi> to the <hi>Gentiles</hi> falling within it; is of all other the moſt Remarkable (next to that of <hi>Iſrael</hi>) Subject of <hi>Prophecy</hi> in the <hi>Old,</hi> and <hi>New Teſtament;</hi> and hath dependent upon it be Great Revolution of ſo great a part of the World coming under the Name of Jeſus Chriſt But imediately attended with the Black and Dark <hi>Eclips</hi> of <hi>Antichriſtianiſm,</hi> Styled very juſtly <hi>Romaniſm;</hi> The time of which <hi>Pro<g ref="char:EOLhyphen"/>phecy</hi> is ſo Intent upon, as to have given ten times the exact meaſure of, and in all kinds of Characters: On which Follow the Dreadful Judgments of God in Revenge of ſuch a Traterous Undermine of his <hi>Kingdom;</hi> In letting out the <hi>Barbarous Nations</hi> to Ra<g ref="char:EOLhyphen"/>vage upon <hi>Rome,</hi> and to Break in peices <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> 
+               <hi>Empire</hi> into Ten (or a variety of) <hi>King<g ref="char:EOLhyphen"/>doms,</hi> Intoxicated into <hi>Papal</hi> Subjection; Then came <hi>Mahometariſm</hi> with it <hi>Two W<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> the <hi>Saracens</hi> and the <hi>Turkiſh Ottoman</hi> Power, which hath ſeated it ſelf in the Room of the <hi>Grecian Empire,</hi> and in it's very <hi>Atr<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>lis,</hi> or at <hi>Conſtantinople;</hi> All which is become a very great part of the <hi>History</hi> of the <hi>L<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>ter Times;</hi> And ſince that, The <hi>Reform<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>
+               </hi> by <hi>Luther</hi> which hath made ſo great a Change in the <hi>Papal</hi> State, and the Kingdomes of <hi>E<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+                  <g ref="char:EOLhyphen"/>rope</hi> in General. Now all theſe, I have ſo Adjuſted to their moſt Lively <hi>Types</hi> in <hi>Pro<g ref="char:EOLhyphen"/>phecy,</hi> and to their moſt exact Scituation, in what I look upon to be the Expreſs <hi>Prophetic Line of Time,</hi> or <hi>Prophetic Chronology;</hi> And with ſuch Atteſtation; of General <hi>Hiſtory,</hi> and <hi>Chro<g ref="char:EOLhyphen"/>nology,</hi> (eſpecially in ſome moſt Eminent Joynts of Time) ſo undoubted as thereby to aſſure in what may ſeem more Dark and Doubtful; and all to this day, That I am ſure, The moſt Learn<g ref="char:EOLhyphen"/>ed and Sagatious cannot draw ſuch another <hi>Line,</hi> ſo Juſtly ſ<gap reason="illegible" resp="#KEYERS" extent="3 letters">
+                  <desc>•••</desc>
+               </gap>ved, and ſo ſupported.</p>
+            <p>But however, or whenever Theſe things ſhall appear, I will not Fail Inceſſantly to Cry out with the <hi>Spirit</hi> and the <hi>Bride,</hi> and to provoke <hi>him that heareth to ſay, <hi>Come Lord Jeſus, Come quickly in thy Kingdom.</hi>
+               </hi>
+            </p>
+            <closer>
+               <signed>T. BEVERLY.</signed>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON:</hi> Printed for, and Sold by <hi>William Marſhall,</hi> at the <hi>Bible</hi> in <hi>Ne<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>g<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>te-ſtreet.</hi> And by <hi>John Marſhall,</hi> at the <hi>Bible</hi> in <hi>Gra<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>-Church-ſtreet,</hi> 1608. <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap> 
+               <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap>eaſe to do <gap reason="illegible" resp="#KEYERS" extent="1 span">
+                  <desc>〈…〉</desc>
+               </gap>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
